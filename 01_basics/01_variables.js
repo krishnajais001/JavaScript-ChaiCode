@@ -17,5 +17,4 @@ because of isse in blok scope and functional scope
 accountEmail = "krishnajais.com";
 accountPassword = "21212121";
 accountCity = "Bengaluru";
-
 console.table([accountId,accountEmail,accountPassword,accountCity,accountState])
