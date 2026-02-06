@@ -5,7 +5,7 @@ accountCity = "Jaipur";
 let accountState;
 // accountId = 2 // not allowed
 // console.log(accountId)
-
+//
 /*
 Prefer Not to use var
 because of isse in blok scope and functional scope
